@@ -1,8 +1,8 @@
 ### Hi there, I'm Joaquin! 👋
 
   
-- 🔭 I’m constantly working to improve my frontend/backend skills and create clean, scalabe applications 
-- 🌱 I’m currently learning software development
+- 🔭 I’m constantly working to improve my frontend/backend skills and create clean, scalabe applications 💻 
+- 📖 I’m currently learning software development
 - ⚡ Take a look at my [portfolio](https://joafran.github.io/portfolio/)! 
 
 ```js
