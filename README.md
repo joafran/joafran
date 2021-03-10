@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Joaquin!
+### Hi there, I'm Joaquin! 👋
 
   
 - 🔭 I’m constantly working to improve my frontend/backend skills and create clean, scalabe applications 
